@@ -14,7 +14,7 @@ These days I build end-to-end analytics solutions across healthcare, finance, an
 Languages    │ SQL • Python • R
 BI & Viz     │ Tableau • Power BI • Excel
 ML & Stats   │ Random Forest • KNN • NLP • Time Series • A/B Testing
-Data & Cloud │ PySpark • Databricks • Snowflake • KNIME • 
+Data & Cloud │ PySpark • Databricks • Snowflake • KNIME 
 ```
 
 
